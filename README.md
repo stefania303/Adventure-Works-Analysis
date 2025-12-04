@@ -1,4 +1,4 @@
-# Adventure Works - Analysis
+# Adventure Works - Power BI Analysis
 
 ## Project overview
 
